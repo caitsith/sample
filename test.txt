@@ -2,3 +2,5 @@
 sourcetree_Github
 
 クローン成功!!
+
+プッシュ成功!!
